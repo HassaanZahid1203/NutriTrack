@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RingProgressView">
+        <attr name="rpv_progress" format="integer" />
+        <attr name="rpv_value" format="string" />
+        <attr name="rpv_label" format="string" />
+    </declare-styleable>
+</resources>

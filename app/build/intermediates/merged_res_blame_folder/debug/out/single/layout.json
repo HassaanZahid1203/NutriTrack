@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-mergeDebugResources-52:\\layout\\fragment_trends.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-main-55:\\layout\\fragment_trends.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-mergeDebugResources-52:\\layout\\item_meal_entry.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-main-55:\\layout\\item_meal_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-mergeDebugResources-52:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-main-55:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-mergeDebugResources-52:\\layout\\fragment_meals.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-main-55:\\layout\\fragment_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-mergeDebugResources-52:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-main-55:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-mergeDebugResources-52:\\layout\\item_food_picker.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-main-55:\\layout\\item_food_picker.xml"
+    },
+    {
+        "merged": "com.nutritrack.app-mergeDebugResources-52:/layout/fragment_profile.xml",
+        "source": "com.nutritrack.app-main-55:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.nutritrack.app-mergeDebugResources-52:/layout/item_admin_food.xml",
+        "source": "com.nutritrack.app-main-55:/layout/item_admin_food.xml"
+    },
+    {
+        "merged": "com.nutritrack.app-mergeDebugResources-52:/layout/dialog_edit_food.xml",
+        "source": "com.nutritrack.app-main-55:/layout/dialog_edit_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-mergeDebugResources-52:\\layout\\fragment_log_food.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-main-55:\\layout\\fragment_log_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-mergeDebugResources-52:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.nutritrack.app-mergeDebugResources-52:/layout/activity_admin_foods.xml",
+        "source": "com.nutritrack.app-main-55:/layout/activity_admin_foods.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-mergeDebugResources-52:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.nutritrack.app-main-55:\\layout\\fragment_home.xml"
+    }
+]

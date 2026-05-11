@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NutriTrack</string>
+    <string name="app_tagline">Track your nutrition journey</string>
+    <string name="app_subtitle">Log meals, monitor health, reach your goals</string>
+
+    <!-- Auth -->
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="full_name_hint">Jane Doe</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="email_hint">you@example.com</string>
+    <string name="password_hint">************</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="or_continue_with">or continue with</string>
+    <!-- Replaced by google-services.json once Firebase is wired up -->
+    <string name="default_web_client_id" translatable="false">REPLACE_WITH_FIREBASE_WEB_CLIENT_ID</string>
+
+    <!-- Home / Dashboard -->
+    <string name="good_morning">GOOD MORNING 👋</string>
+    <string name="daily_target">Daily Target</string>
+    <string name="health_score">HEALTH SCORE</string>
+    <string name="weekly_trend">WEEKLY TREND</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_meals">Meals</string>
+    <string name="nav_log">Log</string>
+    <string name="nav_trends">Trends</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Meals -->
+    <string name="todays_meals">Today\'s Meals</string>
+    <string name="remaining">Remaining</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="snack">Snack</string>
+
+    <!-- Log Food -->
+    <string name="log_food">Log Food</string>
+    <string name="meal_type">MEAL TYPE</string>
+    <string name="search_food">Search food items...</string>
+    <string name="recent_foods">RECENT FOODS</string>
+    <string name="add_to_log">Add to Log ✓</string>
+
+    <!-- Trends/Simulator -->
+    <string name="trends_simulator">Trends (simulator)</string>
+    <string name="simulate_intro">Simulate dietary changes and see how they affect your calorie intake and health before committing.</string>
+    <string name="simulate_a_change">Simulate a change</string>
+    <string name="simulator_hint">Drag the sliders below to see how a portion change or food swap would affect your calories and health score before you commit.</string>
+    <string name="adjust_meals">📦 Adjust Today\'s Meals</string>
+    <string name="today_baseline">Today\'s baseline</string>
+    <string name="after_change">After change</string>
+    <string name="portion_size">Portion size</string>
+    <string name="swap_naan_for_roti">🫓 Swap Naan → Roti</string>
+    <string name="projected_outcome">PROJECTED OUTCOME</string>
+    <string name="predicted_outcome">PREDICTED OUTCOME</string>
+    <string name="apply_to_log">Apply to today\'s log →</string>
+    <string name="apply_scenario">Apply This Scenario →</string>
+
+    <!-- Profile -->
+    <string name="active_goals">ACTIVE GOALS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="privacy_security">Privacy &amp; Security</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
