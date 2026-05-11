@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_amber_bg">#FCEBC8</color>
+    <color name="accent_blue">#3870E0</color>
+    <color name="accent_orange">#E89B3C</color>
+    <color name="accent_red">#D14343</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_chip">#EAE8E0</color>
+    <color name="bg_input">#EFEDE6</color>
+    <color name="bg_screen">#F5F4F0</color>
+    <color name="black">#000000</color>
+    <color name="brand_green">#2E8B45</color>
+    <color name="brand_green_chip">#3FA85B</color>
+    <color name="brand_green_dark">#1F6B33</color>
+    <color name="brand_green_light">#4CA85F</color>
+    <color name="brand_green_pale">#E8F3EC</color>
+    <color name="chart_bar_mid">#7FC68F</color>
+    <color name="chart_bar_pale">#CDE8D2</color>
+    <color name="chart_bar_strong">#2E8B45</color>
+    <color name="divider">#E5E3DD</color>
+    <color name="text_muted">#9C9C9C</color>
+    <color name="text_on_green">#FFFFFF</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6B6B6B</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="card_padding">18dp</dimen>
+    <dimen name="card_radius">18dp</dimen>
+    <dimen name="card_radius_pill">28dp</dimen>
+    <dimen name="card_radius_small">14dp</dimen>
+    <dimen name="screen_padding">20dp</dimen>
+    <string name="active_goals">ACTIVE GOALS</string>
+    <string name="add_to_log">Add to Log ✓</string>
+    <string name="adjust_meals">📦 Adjust Today\'s Meals</string>
+    <string name="after_change">After change</string>
+    <string name="app_name">NutriTrack</string>
+    <string name="app_subtitle">Log meals, monitor health, reach your goals</string>
+    <string name="app_tagline">Track your nutrition journey</string>
+    <string name="apply_scenario">Apply This Scenario →</string>
+    <string name="apply_to_log">Apply to today\'s log →</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="daily_target">Daily Target</string>
+    <string name="default_web_client_id" translatable="false">REPLACE_WITH_FIREBASE_WEB_CLIENT_ID</string>
+    <string name="dinner">Dinner</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="email">EMAIL</string>
+    <string name="email_hint">you@example.com</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="full_name_hint">Jane Doe</string>
+    <string name="gcm_defaultSenderId" translatable="false">215509687529</string>
+    <string name="good_morning">GOOD MORNING 👋</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWoU7zGRyRcaZodZcs1p5yNUp94hgznIY</string>
+    <string name="google_app_id" translatable="false">1:215509687529:android:7d037bfea242ca22b2a478</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWoU7zGRyRcaZodZcs1p5yNUp94hgznIY</string>
+    <string name="google_storage_bucket" translatable="false">nutritrack-b6f42.firebasestorage.app</string>
+    <string name="health_score">HEALTH SCORE</string>
+    <string name="log_food">Log Food</string>
+    <string name="lunch">Lunch</string>
+    <string name="meal_type">MEAL TYPE</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_log">Log</string>
+    <string name="nav_meals">Meals</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_trends">Trends</string>
+    <string name="notifications">Notifications</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="password">PASSWORD</string>
+    <string name="password_hint">************</string>
+    <string name="portion_size">Portion size</string>
+    <string name="predicted_outcome">PREDICTED OUTCOME</string>
+    <string name="privacy_security">Privacy &amp; Security</string>
+    <string name="project_id" translatable="false">nutritrack-b6f42</string>
+    <string name="projected_outcome">PROJECTED OUTCOME</string>
+    <string name="recent_foods">RECENT FOODS</string>
+    <string name="register">Register</string>
+    <string name="remaining">Remaining</string>
+    <string name="search_food">Search food items...</string>
+    <string name="settings">SETTINGS</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="simulate_a_change">Simulate a change</string>
+    <string name="simulate_intro">Simulate dietary changes and see how they affect your calorie intake and health before committing.</string>
+    <string name="simulator_hint">Drag the sliders below to see how a portion change or food swap would affect your calories and health score before you commit.</string>
+    <string name="snack">Snack</string>
+    <string name="swap_naan_for_roti">🫓 Swap Naan → Roti</string>
+    <string name="today_baseline">Today\'s baseline</string>
+    <string name="todays_meals">Today\'s Meals</string>
+    <string name="trends_simulator">Trends (simulator)</string>
+    <string name="weekly_trend">WEEKLY TREND</string>
+    <style name="Button.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/brand_green</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">14dp</item>
+    </style>
+    <style name="Button.Secondary" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">14dp</item>
+        <item name="strokeColor">@color/divider</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    <style name="Text.Body" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    <style name="Text.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.08</item>
+    </style>
+    <style name="Text.Heading.Large" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
+    <style name="Text.Heading.Medium" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
+    <style name="Theme.NutriTrack" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_green</item>
+        <item name="colorPrimaryVariant">@color/brand_green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/brand_green_light</item>
+        <item name="colorSecondaryVariant">@color/brand_green</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:colorBackground">@color/bg_screen</item>
+        <item name="colorSurface">@color/bg_card</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        <item name="android:statusBarColor">@color/brand_green</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/bg_screen</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="o_mr1">true</item>
+    </style>
+    <style name="Theme.NutriTrack.Splash" parent="Theme.NutriTrack">
+        <item name="android:windowBackground">@color/brand_green</item>
+        <item name="android:statusBarColor">@color/brand_green</item>
+    </style>
+    <declare-styleable name="RingProgressView">
+        <attr format="integer" name="rpv_progress"/>
+        <attr format="string" name="rpv_value"/>
+        <attr format="string" name="rpv_label"/>
+    </declare-styleable>
+</resources>

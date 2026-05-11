@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand greens (matching UI mockups) -->
+    <color name="brand_green">#2E8B45</color>
+    <color name="brand_green_dark">#1F6B33</color>
+    <color name="brand_green_light">#4CA85F</color>
+    <color name="brand_green_pale">#E8F3EC</color>
+    <color name="brand_green_chip">#3FA85B</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_screen">#F5F4F0</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_chip">#EAE8E0</color>
+    <color name="bg_input">#EFEDE6</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6B6B6B</color>
+    <color name="text_muted">#9C9C9C</color>
+    <color name="text_on_green">#FFFFFF</color>
+
+    <!-- Accents -->
+    <color name="accent_orange">#E89B3C</color>
+    <color name="accent_amber_bg">#FCEBC8</color>
+    <color name="accent_red">#D14343</color>
+    <color name="accent_blue">#3870E0</color>
+
+    <!-- Chart bar shades -->
+    <color name="chart_bar_pale">#CDE8D2</color>
+    <color name="chart_bar_mid">#7FC68F</color>
+    <color name="chart_bar_strong">#2E8B45</color>
+
+    <!-- Standard -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="divider">#E5E3DD</color>
+</resources>
